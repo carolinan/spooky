@@ -1,0 +1,16 @@
+/*
+Theme Name: Spooky
+Description: Used to style the classic TinyMCE editor dark mode.
+*/
+
+body {
+	background: #111;
+	color: #fff;
+}
+
+a,
+a:hover,
+a:focus,
+a:visited {
+	color: #888;
+}

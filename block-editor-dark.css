@@ -1,0 +1,30 @@
+
+.block-editor__container {
+	background: #111;
+	color: #fff;
+}
+
+a,
+.block-editor-rich-text__editable a {
+	color: #888;
+}
+
+.editor-block-list__block,
+.editor-post-title__block .editor-post-title__input,
+.is-selected.editor-post-title__block .editor-post-title__input,
+.wp-block-quote cite,
+.wp-block-quote__citation,
+.wp-block-quote footer,
+.wp-block-video figcaption,
+.wp-block-image figcaption,
+.wp-block-audio figcaption,
+.wp-block-embed figcaption,
+.wp-block-pullquote,
+.wp-block-pullquote .wp-block-pullquote__citation,
+.wp-block-latest-comments__comment-link,
+.wp-block-latest-posts__post-date, 
+.wp-block-latest-comments__comment-date,
+.wp-block-latest-comments__comment-excerpt p {
+	color: #fff;
+}
+

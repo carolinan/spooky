@@ -1,0 +1,39 @@
+.editor-styles-wrapper>* {
+	font-family: 'Open Sans', BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.edit-post-visual-editor .editor-post-title__block .editor-post-title__input {
+	font-family: 'IM Fell English',	'Open Sans', BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial,serif;
+	letter-spacing: 3px;
+	margin-bottom: 0.3em;
+}
+
+.wp-block-table.is-style-stripes tr:nth-child(odd) {
+	color: #111;
+}
+
+pre.wp-block-verse,
+.wp-block-verse pre,
+pre,
+.wp-block-preformatted pre {
+	color:#fff;
+}
+
+.wp-block-button__link,
+.is-style-outline .wp-block-button__link {
+	text-decoration: underline;
+}
+
+.wp-block-button__link:focus,
+.is-style-outline .wp-block-button__link:focus,
+.wp-block-button__link:hover,
+.is-style-outline .wp-block-button__link:hover {
+	text-decoration: none;
+}
+
+.wp-block-button,
+.wp-block-pullquote,
+.wp-block-media-text,
+.wp-block-cover {
+	margin-bottom: 1.5em;
+}
